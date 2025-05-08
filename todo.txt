@@ -1,0 +1,11 @@
+[FIX/IMPLEMENT]
+- 
+
+[FEATURES]
+- cli with argparse (instead of running from editor)
+
+[TIDYING]
+- single conda environment with cv2 & pygame
+    - same constants into single file
+- move classes/functions in align to separate file
+- git & github

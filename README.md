@@ -1,5 +1,5 @@
 # ActionSampler Photo Alignment and Montages
-Visually align and create montages out of your ActionSampler Photos. While intended for images taken with [Lomography's ActionSampler camera](https://microsites.lomography.com/actionsampler/), this can be used with any sequence of images.
+Visually align and create montages out of your ActionSampler Photos. While intended for images taken with [Lomography's ActionSampler camera](https://filmphotography.eu/en/actionsampler/), this can be used with any sequence of images.
 
 https://github.com/user-attachments/assets/ea8469b2-03eb-4901-b367-9ab7954556af
 
